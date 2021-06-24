@@ -34,7 +34,7 @@ CREATE TABLE `blogsdata` (
   `slug` varchar(25) NOT NULL,
   `content` text NOT NULL,
   `date` datetime NOT NULL DEFAULT current_timestamp(),
-  `img` varchar(20) NOT NULL
+  `img` varchar(30) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
