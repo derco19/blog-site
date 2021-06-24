@@ -1,0 +1,15 @@
+{
+  "params": {
+    "local_server": "true",
+    "local_uri": "mysql://root:@localhost/harshblogs",
+    "prod_uri": "mysql://root:@localhost/harshblogs",
+    "blog_name": "HarshBlogs",
+    "gmail-user": "harshblogs15@gmail.com",
+    "gmail-password": "12345678",
+    "about": "Hi there Guys this is me a competitive coder, web developer and blogger.",
+    "no_of_post": 2,
+    "admin-user": "derco19",
+    "admin-password": "12345678",
+    "upload_location": "C:\\Users\\Harsh\\PycharmProjects\\PythonFlaskTuts\\FlaskTuts\\Static\\assets\\img"
+  }
+}
